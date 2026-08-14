@@ -11,7 +11,7 @@
     <nav>
       <a href="#"><img src="https://github.com/CanisCoder/jenkins-java-project/blob/master/src/netflixlogo.png?raw=true" alt="logo" /></a>
     </nav>
-    <div class="background-image"></div> the
+    <div class="background-image"></div> thefd
     <div class="form-wrapper">
       <h2>NETFLIX SIGN IN V-5.0</h2>
       <form action="#">
