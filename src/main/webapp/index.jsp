@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, the initial-scale=4.0" />
     <title>Netflix WELCOME Page | CodingNepal</title>
     <link rel="stylesheet" href="style.css" />
-  </head>
+  </head> fff
   <body>
     <nav>
       <a href="#"><img src="https://github.com/CanisCoder/jenkins-java-project/blob/master/src/netflixlogo.png?raw=true" alt="logo" /></a>
